@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="docs/logo.png" width="120" height="120">
-  # TeaRex
-</p>
+<img src="docs/logo.png" width="120" height="120">
 
 # Getting Started
 
