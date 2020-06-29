@@ -1,4 +1,4 @@
-# <img align="center" src="docs/logo.png" width="90" height="90"> TeaRex
+# <img align="center" src="docs/logo.png" width="120" height="120"> TeaRex
 
 # Getting Started
 
