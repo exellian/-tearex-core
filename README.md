@@ -8,8 +8,9 @@ Just run ```npm install @tearex/backend``` to install the framework.
 
 ## Hello World
 
+app.ts:
+
 ```typescript
-app.ts
 
 @Controller
 class IndexController {
