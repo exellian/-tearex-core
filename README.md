@@ -14,20 +14,20 @@ Just run ```npm install @tearex/backend``` to install the framework.
 class IndexController {
 
   //Simple Hello World
-  @Get
-  index(client: Client): void {
-    client.end("Hallo Welt!");
-  }
+    @Get
+    index(client: Client): void {
+        client.end("Hallo Welt!");
+    }
   
   
   //JSON Response
-  @Get
-  info(client: Client): void {
-    client.end({
-      id: 4,
-      info: "This is an information response!"
-    });
-  }
+    @Get
+    info(client: Client): void {
+        client.end({
+            id: 4,
+            info: "This is an information response!"
+        });
+    }
 }
 
 Instance.new(8080);
