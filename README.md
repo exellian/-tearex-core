@@ -1,2 +1,0 @@
-# tearex
-Tearex backend API

@@ -1,0 +1,20 @@
+{
+  "name": "teapot-backend",
+  "version": "1.0.0",
+  "description": "A Backend Typescript Web Framework",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && node decorator_fix.js src"
+  },
+  "author": "Maximilian Gabler",
+  "license": "ISC",
+  "dependencies": {
+    "@tearex/core": "file:src/@tearex/core",
+    "@tearex/internal": "file:src/@tearex/internal",
+    "@types/node": "^14.0.5",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}

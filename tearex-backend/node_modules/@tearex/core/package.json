@@ -1,0 +1,17 @@
+{
+  "name": "@tearex/core",
+  "version": "1.0.0",
+  "description": "The core API for tearex backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilian Gabler",
+  "license": "ISC",
+  "dependencies": {
+    "@tearex/internal": "file:../internal"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
