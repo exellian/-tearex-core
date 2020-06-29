@@ -1,3 +1,5 @@
+# <img src="docs/logo.png" width="50" height="50"> TeaRex <small>1.0</small>
+
 # Getting Started
 
 Welcome to the TeaRex framework. In this example we will create a simple backend API.
