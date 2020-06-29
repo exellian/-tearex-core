@@ -2,6 +2,11 @@
 
 Welcome to the TeaRex framework. In this example we will create a simple backend API.
 
+## Installation
+
+Just run ```npm install @tearex/backend``` to install the framework.
+
+## Hello World
 
 ```typescript
 
