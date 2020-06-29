@@ -1,4 +1,4 @@
-# <img align="center" src="docs/logo.png" width="120" height="120"> <div style="font-size: 40px;">TeaRex</div>
+<img align="center" src="docs/logo.png" width="120" height="120"> TeaRex
 
 # Getting Started
 
