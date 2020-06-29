@@ -9,6 +9,7 @@ Just run ```npm install @tearex/backend``` to install the framework.
 ## Hello World
 
 ```typescript
+app.ts
 
 @Controller
 class IndexController {
@@ -33,5 +34,5 @@ class IndexController {
 Instance.new(8080);
 ```
 
-Now run ```npm run build``` and navigate to ```https://localhost:8080```. And you should get a Hello World! response.
+Now run ```npm run build``` and after that run your script with node ```node app.js```. Now navigate to ```https://localhost:8080``` and you should get a Hello World! response.
 When you navigate to ```https://localhost:8080/info``` you will get the JSON response.
