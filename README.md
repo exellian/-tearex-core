@@ -1,2 +1,2 @@
-# -tearex-core
-Tearex backend core API
+# tearex
+Tearex backend API
