@@ -1,4 +1,4 @@
-<img src="docs/logo_text.png" width="447" height="120">
+<img src="logo_text.png" width="447" height="120">
 
 # Getting Started
 
