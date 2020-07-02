@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Welcome to the TeaRex backend framework. With this framework you can create extensive API services. Core features are controllers, services, interceptors, data persistence, models, automatic validation. In this example we will create a simple backend API that will respond to an incoming request with Hallo World!
+Welcome to the TeaRex backend framework. With this framework you can create extensive API services. Core features are controllers, services, interceptors, data persistence, models, automatic validation. In this example we will create a simple backend API that will respond to an incoming request with Hello World!
 
 ### Installation
 
@@ -25,7 +25,7 @@ class IndexController {
   //Simple Hello World
     @Get
     index(client: Client): void {
-        client.end("Hallo Welt!");
+        client.end("Hello Welt!");
     }
 }
 
